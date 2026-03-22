@@ -1,8 +1,11 @@
 # 📌 Desafio 1 – Arquitetando a Esperança no IMIP
 
 ## 👥 Integrantes
-- Gabriella Guedes  
-- (nomes 
+- Gabriella Guedes de Almeida Alves
+- Helena Silva Nunes
+- Marcus V Souza de Paulo
+- Willians Eduardo dos Santos
+- 
 
 ---
 
