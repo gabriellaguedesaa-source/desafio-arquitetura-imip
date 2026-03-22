@@ -3,9 +3,9 @@
 ## 👥 Integrantes
 - Gabriella Guedes de Almeida Alves
 - Helena Silva Nunes
+- Juan Gabriel Dias Arruda
 - Marcus V Souza de Paulo
 - Willians Eduardo dos Santos
-- 
 
 ---
 
